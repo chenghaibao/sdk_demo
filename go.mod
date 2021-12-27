@@ -1,3 +1,3 @@
-module github.com/hb/sdk_demo
+module sdk_demo
 
 go 1.16
