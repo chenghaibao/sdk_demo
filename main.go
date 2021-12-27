@@ -1,4 +1,4 @@
-package sdk_demo
+package main
 
 import "fmt"
 
